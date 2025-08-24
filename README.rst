@@ -1,7 +1,7 @@
 Requires
 ========
 
-`apt-get install transmission-cli qbittorrent pv parallel`
+`apt-get install transmission-cli qbittorrent pv parallel curl`
 
 qbittorrent preferences,
 
