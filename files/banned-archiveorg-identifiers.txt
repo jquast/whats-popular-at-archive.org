@@ -1,0 +1,58 @@
+# no torrent, https://archive.org/details/TerryADavis_TempleOS_Archive
+TerryADavis_TempleOS_Archive
+# no torrent, https://archive.org/details/mame-chds-roms-extras-complete
+mame-chds-roms-extras-complete
+# no torrent, https://archive.org/details/collection-top-100-game-packs-collection-by-stirlitz
+collection-top-100-game-packs-collection-by-stirlitz
+# no torrent, https://archive.org/details/07701027C59D6F7CC12AAC500BFDD8DE8BFCC389
+07701027C59D6F7CC12AAC500BFDD8DE8BFCC389
+# no torrent, https://archive.org/details/kablam-complete-series-markmarek-mowillems-viacomcbs_paramountplus
+kablam-complete-series-markmarek-mowillems-viacomcbs_paramountplus
+# no torrent, https://archive.org/details/aerosmithrocks_202401
+aerosmithrocks_202401
+# no torrent, https://archive.org/details/os-cavaleiros-do-zodiaco-bd
+os-cavaleiros-do-zodiaco-bd
+# no torrent, https://archive.org/details/RockBand4DLCPS4
+RockBand4DLCPS4
+# no torrent, https://archive.org/details/BlackSabbathDeluxeCDs
+BlackSabbathDeluxeCDs
+# no torrent, https://archive.org/details/hard-rock-blues-rock-southern-rock-rockn-roll-classic-rock-ted-nugent-with-the-a
+hard-rock-blues-rock-southern-rock-rockn-roll-classic-rock-ted-nugent-with-the-a
+# no torrent, https://archive.org/details/bittorrent-231e07c8f79c0bacc49223f6d6e37a69f2eef79a
+bittorrent-231e07c8f79c0bacc49223f6d6e37a69f2eef79a
+# no torrent, https://archive.org/details/kids-wb-teletoon-ytv-2005-woc
+kids-wb-teletoon-ytv-2005-woc
+# no torrent, https://archive.org/details/doujin-game-tsumeawase
+doujin-game-tsumeawase
+# no torrent, https://archive.org/details/bittorrent-ae8b9f3b364614988ce5954534e359bd8279c792
+bittorrent-ae8b9f3b364614988ce5954534e359bd8279c792
+# no torrent, https://archive.org/details/smmwe2_archive
+smmwe2_archive
+# no torrent, https://archive.org/details/2022-maio-06-diario-do-amapa
+2022-maio-06-diario-do-amapa
+# no torrent, https://archive.org/details/teletoon-2002-woc-no2
+teletoon-2002-woc-no2
+# no torrent, https://archive.org/details/Dragon-Soul-DragonSoul-MMORPG-Client
+Dragon-Soul-DragonSoul-MMORPG-Client
+# no torrent, https://archive.org/details/va-tik-tok-2021-opus-128
+va-tik-tok-2021-opus-128
+Unexpected multiple torrent_url's for meta_url=https://archive.org/metadata/front-mission-evolved
+# no torrent, https://archive.org/details/va-80-90-vol.-69-2020-opus-128
+va-80-90-vol.-69-2020-opus-128
+Unexpected multiple torrent_url's for meta_url=https://archive.org/metadata/WondergteleaksFLUD
+# no torrent, https://archive.org/details/bittorrent-e907321a89962f273b8fe6c0ffe98c9b3261a144
+bittorrent-e907321a89962f273b8fe6c0ffe98c9b3261a144
+# no torrent, https://archive.org/details/the-wan-show
+the-wan-show
+# no torrent, https://archive.org/details/cod-bo3-t7-full-game
+cod-bo3-t7-full-game
+# no torrent, https://archive.org/details/va-o-3-greatest-christmas-hits-2019-opus-128
+va-o-3-greatest-christmas-hits-2019-opus-128
+# no torrent, https://archive.org/details/powell-valley-news-2022
+powell-valley-news-2022
+# no torrent, https://archive.org/details/pokemon-black-white-1420-dancing-with-the-ducklett-trio-c-p
+pokemon-black-white-1420-dancing-with-the-ducklett-trio-c-p
+# Unexpected multiple torrent_url's for meta_url=https://archive.org/metadata/random-torrent-files
+random-torrent-files
+# Unexpected multiple torrent_url's for meta_url=https://archive.org/metadata/isos-psx-completas-sony-887-gb-2
+isos-psx-completas-sony-887-gb-2
