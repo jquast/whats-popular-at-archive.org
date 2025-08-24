@@ -171,7 +171,7 @@ for r in results:
         txt_linkvar = f"identifier={r['identifier']}"
     else:
         txt_obj = f"{r['identifier']}"
-        txt_linkvar = f"name={r['identifier']}"
+        txt_linkvar = f""
     
     error_info = f" errors={r['errors']}" if r['errors'] else ""
     print(f"{txt_obj} # leeches={r['leechers']} seeds={r['seeders']} peers={r['peers']} size={r['bytes']} {txt_linkvar}{error_info}")
