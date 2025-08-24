@@ -56,3 +56,5 @@ pokemon-black-white-1420-dancing-with-the-ducklett-trio-c-p
 random-torrent-files
 # Unexpected multiple torrent_url's for meta_url=https://archive.org/metadata/isos-psx-completas-sony-887-gb-2
 isos-psx-completas-sony-887-gb-2
+# curl: (3) URL rejected: Malformed input to a URL function errno=3 for url=https://archive.org/download/laoguangpan.set.19/19老光盘群(群号854318908)群友分享汇总 2020年6月-7月/往期种子/11老光盘群(群号854318908)群友分享汇总 2019年10月/2019-10-31/wyathong/CorelDraw 7/EN/CD7PROGRAM_archive.torrent
+laoguangpan.set.19
