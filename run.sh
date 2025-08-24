@@ -95,7 +95,7 @@ else
     echo "* Proceeding with avail_bytes=$avail_bytes"
 fi
 
-echo "* Applying banned filter"
+echo "* (always) re-Applying banned filter"
 # always re-apply final filter to exclude banned identifiers,
 find torrent-file-candidates/ -name '*_archive.torrent' | while read f; do
     filename="$(basename "$f")"
