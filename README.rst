@@ -1,7 +1,7 @@
 Requires
 ========
 
-sudo apt-get install transmission-cli qbittorrent pv parallel
+```apt-get install transmission-cli qbittorrent pv parallel```
 
 qbittorrent preferences,
 - enable 'Web User Interface' under 'Web UI' and enable 'Bypass authentication
