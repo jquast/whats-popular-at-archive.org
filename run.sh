@@ -55,7 +55,8 @@ fi
 # and then download them. Some of them have errors. Clicking some of their URL's may be
 # possible to download, only if logged in (403 ..)
 echo "* Fetching torrent files from archive.org"
-pv -l files/popular-torrent-urls.txt | ./gentle-fetch-torrent-files.sh
+pv -l files/popular-torrent-urls.txt | ./gentle-fetch-torrent-files.sh || retcode=$?
+echo "retcode=$retcode"
 
 # and finally farm all of their trackers, using only files
 # modified in the last 7 days (oldest retire out)
