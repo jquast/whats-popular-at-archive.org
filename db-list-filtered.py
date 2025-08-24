@@ -50,8 +50,8 @@ def parse_database_line(line):
     }
 
 parser = argparse.ArgumentParser(description="Filter and sort torrents from database file by swarm stats and size")
-parser.add_argument('--database', '-d', default='files/torrent-stats.db', 
-                    help='Database file to read from (default: files/torrent-stats.db)')
+parser.add_argument('--database', '-d', default='files/torrent-stats.txt', 
+                    help='Database file to read from (default: files/torrent-stats.txt)')
 
 group = parser.add_mutually_exclusive_group()
 group.add_argument('--min-leeches', type=int)
@@ -145,7 +145,7 @@ try:
 
 except FileNotFoundError:
     print(f"[ERROR] Database file '{args.database}' not found", file=sys.stderr)
-    print("Create it first with: ./build-torrent-database.py -o files/torrent-stats.db", file=sys.stderr)
+    print("Create it first with: ./build-torrent-database.py -o files/torrent-stats.txt", file=sys.stderr)
     sys.exit(1)
 except Exception as e:
     print(f"[ERROR] Failed to read database: {e}", file=sys.stderr)
