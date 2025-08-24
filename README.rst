@@ -1,21 +1,22 @@
 Requires
 ========
 
-```apt-get install transmission-cli qbittorrent pv parallel```
+`apt-get install transmission-cli qbittorrent pv parallel`
 
 qbittorrent preferences,
-- enable 'Web User Interface' under 'Web UI' and enable 'Bypass authentication
-  for clients on localhost'
-- enable 'Pre-Allocate disk space for all files' under 'Downloads'
+
+- enable 'Web User Interface' under 'Web UI'
+- and also enable 'Bypass authentication for clients on localhost' under 'WEB UI'
+- also suggest to enable 'Pre-Allocate disk space for all files' under 'Downloads'
 
 Programs
 ========
 
 `run.sh` orchestrates and runs all of the following programs, mostly in this order.
 
-The final step calls "open" on the .torrent files that match the given criteria,
-it is expected these are associated with qbittorrent, and, you can evaluate whether
-to continue the download from there.
+The final step in run.sh calls "open" on the .torrent files that match the given criteria,
+it is expected these are associated with qbittorrent by your OS, and, you can then preview
+and evaluate whether to continue to start it from there.
 
 - `fetch-top-torrents-urls.py`: fetch torrent url's from archive.org for "what's popular"
 - `gentle-fetch-torrent-files.sh`: "gently" fetches .torrent files from url's
